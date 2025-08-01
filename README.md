@@ -15,7 +15,7 @@ A one-stop automation suite for the **Pharos Testnet** and its expanding ecosyst
 | `bot3.py` | OpenFi BOT    | Lending, borrowing & DeFi services |
 | `bot4.py` | Brokex BOT    | Faucet claim and trade automation  |
 | `bot5.py` | FaroSwap BOT  | Swap and liquidity automation      |
-
+| `stake.py`| Primus        | Send friends random                |
 ---
 
 ## 🧠 Features
@@ -179,6 +179,10 @@ Handles:
 * Multi Accounts
 
 ---
+
+### `stake.py` — **Primus BOT**
+* Random Send your friends
+* Random more than 1000 users on X and TikTok
 
 ## ⚙️ Dependency Notes
 

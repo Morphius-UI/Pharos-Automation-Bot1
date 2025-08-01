@@ -165,12 +165,14 @@ async def _main():
         with open('proxy.txt', 'r') as f:
             PROX = [line.strip() for line in f if line.strip()]
             
-        term = int(input('Сколько раз транзакции отправить:'))
+        term = int(input('Сколько раз транзакции отправить минимально:'))
+        term1 = int(input('Сколько раз транзакции отправить максимально:'))
+
         for i, priv in enumerate(PRIV):
             print(f'Начинаем аккаунт №{i+1}')
             proxy = PROX[i] if i < len(PROX) else None
             worker = nameclass(proxy, priv)
-            for j in range(term):
+            for j in range(random.randrange(term, term1)):
                 await worker.send(j+1)
                 await asyncio.sleep(random.randint(20, 40))
             print("Ожидаем и переходим к следующему аккаунту")

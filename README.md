@@ -204,14 +204,6 @@ Crafted with ❤️ by [CryptoDai3](https://t.me/cryptodai3) × [YetiDAO](https:
 
 ---
 
-## ☕ Buy Me a Coffee
-
-* **EVM:** `0x49bb35693e9631760d2f3519e7db1dd618580a6a`
-* **TON:** `UQDDYNRWZI12zMfXYBoy300ydECC5uouMUFLd_yZa6ZO4Jsm`
-* **SOL:** `2PhLDFnyX8whHDMBbfGSFoLnVEsei6TYxyiqpDzPGyT1`
-* **SUI:** `0xf3b008f8aac4b92195176aad27a892c565c216fd5c07bc99c70edb8394e23b59`
-
----
 
 ## 🔒 Security & Disclaimer
 

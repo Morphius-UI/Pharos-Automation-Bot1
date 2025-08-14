@@ -185,6 +185,12 @@ Handles:
 * Random Send your friends
 * Random more than 1000 users on X and TikTok
 
+---
+### `mint.py` — **Grandline BOT**
+* Mint NFT for 1 PHRS
+* Cheak balance
+* Random deley
+
 ## ⚙️ Dependency Notes
 
 Ensure version compatibility for:

@@ -159,7 +159,7 @@ class nameclass:
 
 async def _main():
     try:
-        with open('acc.txt', 'r') as f:
+        with open('accounts.txt', 'r') as f:
             PRIV = [line.strip() for line in f if line.strip()]
         
         with open('proxy.txt', 'r') as f:

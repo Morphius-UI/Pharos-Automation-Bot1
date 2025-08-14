@@ -16,6 +16,7 @@ A one-stop automation suite for the **Pharos Testnet** and its expanding ecosyst
 | `bot4.py` | Brokex BOT    | Faucet claim and trade automation  |
 | `bot5.py` | FaroSwap BOT  | Swap and liquidity automation      |
 | `stake.py`| Primus        | Send friends random                |
+| `mint.py` | Grandline     | Mint famous NFT for 1 PHRS         |
 ---
 
 ## 🧠 Features
